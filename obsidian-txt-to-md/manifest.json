@@ -1,0 +1,9 @@
+{
+    "id": "obsidian-txt-to-md",
+    "name": "Obsidian Txt to MD Converter",
+    "version": "1.0.1",
+    "minAppVersion": "0.15.0",
+    "description": "Automatically detects .txt files, moves them to a backup folder, and creates .md copies.",
+    "author": "Zandy",
+    "isDesktopOnly": false
+}
